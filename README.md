@@ -73,7 +73,7 @@ Tools                 : XAMPP.<br>
   </a>
   </p>
 </td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/76697869?v=4" width="210px;" height="230px;"  alt=""/><br/><sub><b>Inakollu Mohana Chaitanya Reddy</b></sub></a><br />
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/76697869?v=4" width="210px;" height="230px;"  alt=""/><br/><sub><b>Mohana Chaitanya Reddy</b></sub></a><br />
    <br/>
    <p align="center">
    <a href="https://github.com/MohanaChaitanya25" alt="Github">
